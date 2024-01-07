@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fafikk</h1>
 <h3 align="center">A backend developer from Poland</h3>
 
-- 🔭 I’m currently working on **CodeVista**
+- 🔭 I’m currently working on **[CodeVista](codevista.ct8.pl)**
 
 - 🌱 I’m currently learning **PHP**
 
