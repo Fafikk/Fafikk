@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fafikk</h1>
 <h3 align="center">A backend developer from Poland</h3>
 
-- 🔭 I’m currently working on **[CodeVista](https://codevista.ct8.pl)**
+- 🔭 I’m currently working on **[QuizzWiz](https://quizzwiz.ct8.pl)**
 
 - 🌱 I’m currently learning **PHP**
 
-- 📫 How to reach me (Discord) **fafikk_**
+- 📫 How to reach me **[Portfolio](https:fafik.ct8.pl)**
 - ⏰ My wakatime **https://wakatime.com/@Fafikk**
 
 <h3 align="left">Languages and Tools:</h3>
