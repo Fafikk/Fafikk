@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 📫 How to reach me **[Portfolio](https:fafik.ct8.pl)**
+- 📫 How to reach me **[Portfolio](https://fafik.ct8.pl)**
 - ⏰ My wakatime **https://wakatime.com/@Fafikk**
 
 <h3 align="left">Languages and Tools:</h3>
