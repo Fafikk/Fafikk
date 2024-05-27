@@ -175,9 +175,6 @@ These are some of the technologies and tools that I work with:
 <p align="center">
   <h5 align="center"> Staying Motivated </h5>
 </p>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/shravan20" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=dexplorer&button_colour=ff7e38&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="10%" width="20%" ></a>
 </p>
 
 ---
