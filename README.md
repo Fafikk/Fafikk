@@ -11,7 +11,7 @@
   
 - 📫 How to reach me: `fafikkdev@gmail.com`
   
-- ⚡ Don't forget to visit my **<a href="https://fafik.ct8.pl" target="_blank">portfolio</a>**!
+- ⚡ Don't forget to visit my **[portfolio](https://fafik.ct8.pl)**!
 
 <br><br>
 
