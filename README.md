@@ -147,14 +147,14 @@ These are some of the technologies and tools that I work with:
   <tr>
     <td align="center">
       <a href="https://github.com/shravan20">
-        <img src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=algolia" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Fafikk&show_icons=true&theme=algolia" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/shravan20">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravan20&theme=algolia#version3" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fafikk&theme=algolia#version3" />
       </a>
     </td>
   </tr>
