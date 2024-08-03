@@ -9,9 +9,9 @@
 
 - 🔭 I have some experience in `php`.
   
-- 📫 How to reach me: `fafikkdev@gmail.com`
+- 📫 How to reach me: `fafikk@duck.com`
   
-- ⚡ Don't forget to visit my **[portfolio](https://fafik.ct8.pl)**!
+- ⚡ Don't forget to visit my **[portfolio](https://fafik.xyz)**!
 
 <br><br>
 
@@ -41,33 +41,13 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black" />
    </td>
   </tr>
-  <!--
-  <tr>
-    <th>Frameworks/Libraries</th>
-    <td>
-      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=red" />
-      <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
-      <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
-      <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
-    </td>
-  </tr>
-  -->
   <tr>
     <th>Databases</th>
     <td>
       <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
     </td>
   </tr>
-  <!--
-  <tr>
-    <th>Hosting/SaaS/PaaS</th>
-    <td>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-      <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
-    </td>
-  </tr>
-  -->
   <tr>
     <th>Automate, Deploy, Platform & Tools</th>
     <td>
@@ -81,6 +61,8 @@ These are some of the technologies and tools that I work with:
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -91,15 +73,24 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
     </td>
   </tr>
-  <!--
-  <tr>
-    <th>Others</th>
+    <tr>
+    <th>Apps</th>
     <td>
-      <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+      <img src="	https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
     </td>
   </tr>
-  -->
+  <tr>
+    <th>Cloud</th>
+    <td>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+    </td>
+  </tr>
+ 
   
 </table>
 
