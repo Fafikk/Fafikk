@@ -61,8 +61,8 @@ These are some of the technologies and tools that I work with:
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -76,18 +76,18 @@ These are some of the technologies and tools that I work with:
     <tr>
     <th>Apps</th>
     <td>
-      <img src="https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
-      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-      <img src="	https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+      <img src="https://img.shields.io/badge/Joplin-1071D3?style=flat-square&logo=joplin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=Nextcloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Brave-FF1B2D?style=flat-square&logo=Brave&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
+      <img src="	https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white" />
     </td>
   </tr>
   <tr>
     <th>Cloud</th>
     <td>
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" />
     </td>
   </tr>
  
