@@ -102,7 +102,7 @@ These are some of the technologies and tools that I work with:
   <tr>
     <td align="center">
       <a href="https://github.com/Fafikk">
-        <img src="https://github-readme-stats.vercel.app/api/top-lang/?username=Fafikk&show_icons=true&theme=algolia&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fafikk&layout=compact" />
       </a>
     </td>
   </tr>
