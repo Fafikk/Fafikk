@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
   </a>
   
-  <a href="https://fafik.ct8.pl/" target="_blank">
+  <a href="https://fafik.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
   </a>
 
@@ -94,42 +94,6 @@ These are some of the technologies and tools that I work with:
   
 </table>
 
-<!--
----
-
-#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Projects  
-
-<table style="width:100%" align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/shravan20/LearningResources">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=LearningResources&theme=algolia" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/shravan20/github-readme-quotes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes&theme=algolia" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/shravan20/software-installation-guides">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=software-installation-guides&theme=algolia" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/idodav/sharkio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oferlis&repo=sharkio&theme=algolia" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-<br>
-
--->
 ---
 
 #### :octocat:  My Github Stats
@@ -137,14 +101,14 @@ These are some of the technologies and tools that I work with:
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/shravan20">
-        <img src="https://github-readme-stats.vercel.app/api?username=Fafikk&show_icons=true&theme=algolia" />
+      <a href="https://github.com/Fafikk">
+        <img src="https://github-readme-stats.vercel.app/api/top-lang/?username=Fafikk&show_icons=true&theme=algolia&layout=compact" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/shravan20">
+      <a href="https://github.com/Fafikk">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fafikk&theme=algolia#version3" />
       </a>
     </td>
@@ -157,7 +121,7 @@ These are some of the technologies and tools that I work with:
 #### :lotus_position_man: My Thoughts
 
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?&theme=algolia&quotesUrl=https://gist.githubusercontent.com/shravan20/3675eec603b22134e185e50e6fa3ef72/raw/911d1ea7f320cfb6d8826ef5ad24ab9975772d3d/quotes.json" alt="my-personal-project"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?&theme=algolia&quotesUrl=https://gist.githubusercontent.com/Fafikk/3675eec603b22134e185e50e6fa3ef72/raw/911d1ea7f320cfb6d8826ef5ad24ab9975772d3d/quotes.json" alt="my-personal-project"/>
 </p>
 
 
