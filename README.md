@@ -73,17 +73,6 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
     </td>
   </tr>
-    <tr>
-    <th>Apps</th>
-    <td>
-      <img src="https://img.shields.io/badge/Joplin-1071D3?style=flat-square&logo=joplin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=Nextcloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Brave-FF1B2D?style=flat-square&logo=Brave&logoColor=white" />
-      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
-      <img src="	https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white" />
-    </td>
-  </tr>
   <tr>
     <th>Cloud</th>
     <td>
