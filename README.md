@@ -9,9 +9,9 @@
 
 - 🔭 I have some experience in `php`.
   
-- 📫 How to reach me: `fafikk@duck.com`
+- 📫 How to reach me: `contact@fafik.ovh`
   
-- ⚡ Don't forget to visit my **[portfolio](https://fafik.xyz)**!
+- ⚡ Don't forget to visit my **[portfolio](https://fafik.ovh)**!
 
 <br><br>
 
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
   </a>
   
-  <a href="https://fafik.xyz/" target="_blank">
+  <a href="https://fafik.ovh/" target="_blank">
     <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
   </a>
 
