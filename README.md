@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Backend+Developer+%F0%9F%92%BB;From+Poland;PHP+%26+JavaScript+Enthusiast+%E2%9A%A1)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Backend+Developer+%F0%9F%92%BB;From+Poland)](https://git.io/typing-svg)
   
   <p>
     <a href="https://fafik.ovh" target="_blank">
