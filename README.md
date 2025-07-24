@@ -26,7 +26,7 @@
 class Fafikk extends Developer {
     
     public function __construct() {
-        $this->location = "Poland 🇵🇱";
+        $this->location = "Poland";
         $this->role = "Backend Developer";
         $this->languages = ["PHP", "JavaScript"];
         $this->passion = "Clean code & efficient solutions";
@@ -85,12 +85,6 @@ class Fafikk extends Developer {
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fafikk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fafikk's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fafikk&layout=compact&theme=tokyonight&hide_border=true" alt="Fafikk's Most Used Languages"/>
-  
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Fafikk&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   
 </div>
 
