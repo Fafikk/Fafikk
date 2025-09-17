@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Fafikk
+# 👋 Hey there! I'm Kuba
 
 <div align="center">
   
