@@ -84,18 +84,7 @@ class Fafikk extends Developer {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fafikk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fafikk's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fafikk&layout=compact&theme=tokyonight&hide_border=true" alt="Fafikk's Most Used Languages"/>
-  
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Fafikk&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
