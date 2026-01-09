@@ -22,10 +22,6 @@ class Fafikk extends Developer {
             "🎯" => "Optimizing application performance"
         ];
     }
-    
-    public function getMotivation(): string {
-        return "Code is poetry that works! 💻✨";
-    }
 }
 ```
 
