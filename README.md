@@ -80,16 +80,6 @@ class Fafikk extends Developer {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fafikk&layout=compact&theme=tokyonight&hide_border=true" alt="Fafikk's Most Used Languages"/>
-  
-</div>
-
----
-
 ## 🔥 Streak & Activity
 
 <div align="center">
